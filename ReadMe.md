@@ -43,7 +43,7 @@ Project is still in progress.
 ## Inspiration
 Project is based on [OffensEval 2020 Task](https://sites.google.com/site/offensevalsharedtask/). This is the 12th task of one of [SemEval-2020](http://alt.qcri.org/semeval2020/) competition.
 
-## Contact
+## Authors
 Created by students from Poznań University of Technology:
 * [Piotr Janiszewski](mailto:1piotr.janiszewski@gmail.com)
 * Urszula Walińska
