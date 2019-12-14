@@ -22,7 +22,7 @@ The problem is to detect and assign offensive language occurrences to various pr
 * spaCy 2.2
 
 ## Setup
-Clone the repository and:
+Clone the repository and perform one of the following actions:
 * Open the jupyter notebook locally, by executing `jupyter notebook Solution.ipynb`
 * Open the notebook file in one of the cloud notebooks (e.g. Google Colab).
 
