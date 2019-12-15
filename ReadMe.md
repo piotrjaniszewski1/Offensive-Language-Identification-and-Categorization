@@ -28,8 +28,9 @@ Clone the repository and perform one of the following actions:
 
 ## Features
 * Extensive preprocessing
-* Prepared several comparative baselines
-* Implemented a whole pipeline for BERT model
+* Prepared several comparative baselines (branch: `comparative`)
+* Prepared ensembles (branch: `comparative`)
+* Implemented a whole pipeline for BERT model (branch: `bert`)
 
 To-do list:
 * Implement cost-sensitive methods that deal with dataset imbalance
