@@ -22,14 +22,15 @@ The problem is to detect and assign offensive language occurrences to various pr
 * spaCy 2.2
 
 ## Setup
-Clone the repository and:
+Clone the repository and perform one of the following actions:
 * Open the jupyter notebook locally, by executing `jupyter notebook Solution.ipynb`
 * Open the notebook file in one of the cloud notebooks (e.g. Google Colab).
 
 ## Features
 * Extensive preprocessing
-* Prepared several comparative baselines
-* Implemented a whole pipeline for BERT model
+* Prepared several comparative baselines (branch: `comparative`)
+* Prepared ensembles (branch: `comparative`)
+* Implemented a whole pipeline for BERT model (branch: `bert`)
 
 To-do list:
 * Implement cost-sensitive methods that deal with dataset imbalance
